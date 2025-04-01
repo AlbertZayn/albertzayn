@@ -1,4 +1,4 @@
-## 👋 Hi there , I'm Albert
+## 👋 Hi there, I'm Albert
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/albertzayn7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/albertzayn7) 
 
